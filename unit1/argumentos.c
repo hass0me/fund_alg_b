@@ -1,11 +1,8 @@
 #include <stdio.h>
-#include "utils.h"
-#include <stdbool.h>
+#include "utils.h" 
 
-int main()[
-
-    int itGreater = isGreaterThan10(11);
-    printf("the number is: %d", isGreater);
-
-    return 0;  
-]
+int main(){
+    int isGrater = isGreaterThan10(11);
+    printf("the number is: %d", isGrater);
+    return 0;
+}

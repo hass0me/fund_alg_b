@@ -28,6 +28,11 @@ int main(int argc, char** argv){
         //Robot.stpo(x_coord, y_coord);
     }
 
+
+    else if(temp = 21)
+
+    else if(temp )
+
     if(hasUserMoney){
         //Allows ti bus
     } else {
